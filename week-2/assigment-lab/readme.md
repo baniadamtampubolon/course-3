@@ -3,10 +3,10 @@ Answer Assigment Lab
 Example: 0.72
 
 Exercise 3:
-  P for sum=2|8 = 0.12
-  P for sum=3|7 = 0.26
-  P for sum=4|6 = 0.38
-  P for sum=5 = 0.25
+  - P for sum=2|8 = 0.12
+  - P for sum=3|7 = 0.26
+  - P for sum=4|6 = 0.38
+  - P for sum=5 = 0.25
 
 Exercise 9:
   - increase
